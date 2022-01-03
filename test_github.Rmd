@@ -8,14 +8,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Type your name (or anything else) HERE: 
+Sachi Shiroma
 
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
 
-blue <- 10
+blue <- 48
 
-red <- 15
+red <- 29
 
 purple <- blue/red
 
